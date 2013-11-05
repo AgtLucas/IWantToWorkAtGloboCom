@@ -1,19 +1,51 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Esportes,
+Área de Jornalismo
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+### Lucas da Silva
+Brasileiro, Solteiro, 22 anos<br />
+Rua Conrado Erdmann 144 - Apto.01<br />
+Três Rios do Sul - Jaraguá do Sul - Santa Catarina<br />
+Telefone: 47 9954-4599 / E-mail: lucas@agtlucas.com<br />
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+#### Objetivos
+Trabalhar com tecnologias abertas e ajudar o desenvolvimento e crescimento da Web.
+
+#### Formação
+
+* Curso C#, .NET, ASP.NET - 2012 - WPS Training
+* Cursando Bacharelado em Sistemas de Informação - 2012/2015 - Centro Universitário Católica de SC
+
+#### Experiência Profissional
+
+* **Janeiro 2010 / Novembro 2011 - Polícia Militar de SC - 14BPM**<br />
+Cargo: Agente Temporário de Serviço Administrativo.<br />
+Principais atividades: Atendimento telefônico na Central Regional de 
+Emergência 190.
+
+* **Abril 2012 / Junho 2012 - WEG Equipamentos Elétricos S/A**<br />
+Cargo: Estagiário Engenharia de Software.<br />
+Principais atividades: Auxiliar no desenvolvimento de aplicações internas em C#, .NET, ASP.
+
+* **Setembro 2012 / Setembro 2013 - Agência Milagro**<br />
+Cargo: Estagiário Programação<br />
+Principais atividades: Auxiliar e desenvolver aplicações para web em PHP.
+
+* **Setembro 2013 / Presente - Agência Milagro**<br />
+Cargo: Programador Front-End<br />
+Principais Atividades: Desenvolver sites e aplicações para Web usando HTML5, CSS3, JavaScript, Sass.
+
+
+#### Informações Adicionais
+
+* Conhecimentos básicos em Ruby.
+* Conhecimentos itermediários em Photoshop, Illustrator e Fireworks.
+* http://br.linkedin.com/in/agtlucas
+* https://github.com/AgtLucas
+* http://agtlucas.com/
